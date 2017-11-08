@@ -6,6 +6,5 @@ eureka:
     server:
       waitTimeInMsWhenSyncEmpty: 0
   instance:
-    instance:
-      instanceid:
+    instanceid:
  ${eurl}:${spring.application.name}:${eport}
