@@ -5,5 +5,5 @@ eureka:
     fetchRegistry: false
     server:
       waitTimeInMsWhenSyncEmpty: 0
-    instance:
-      preferIpAddress: true
+  instance:
+    preferIpAddress: true
