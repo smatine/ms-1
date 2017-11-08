@@ -8,4 +8,4 @@ eureka:
   instance:
     instance:
       instanceid:
- ${eurl}:${spring.application.name}:${spring.application.instance_id:${server.port}}}
+ ${eurl}:${spring.application.name}:${eport}
